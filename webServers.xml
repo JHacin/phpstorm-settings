@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1c7aa3e8-e460-457b-b29e-17a50aa3aaa2" name="http://macji-boter.lndo.site/" url="http://macji-boter.lndo.site/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="852170f2-a200-474a-aa72-875ea9fcfcd2" name="http://localhost:3000/" url="http://localhost:3000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="2bc1c3a2-dac4-4c5a-8f5a-872036d3d401" name="https://amperas.doc" url="https://amperas.doc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

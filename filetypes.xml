@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
+      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
+      <mapping pattern="f" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
+      <mapping ext="pid" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="GraphQL" />
+    </extensionMap>
+  </component>
+</application>
