@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="91a8abed-6f22-49cc-927f-2f679d5c0a0e" name="amperas.doc" url="https://amperas.doc">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-    </option>
-  </component>
-</application>

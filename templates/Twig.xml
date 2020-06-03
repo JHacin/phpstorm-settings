@@ -1,7 +1,0 @@
-<templateSet group="Twig">
-  <template name="bre" value="{{ breakpoint() }}" shortcut="TAB" description="{{ breakpoint() }}" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="Twig" value="true" />
-    </context>
-  </template>
-</templateSet>
